@@ -7,3 +7,5 @@ Place gdrv.sys from the main dir to `C:\Windows\System32\drivers` and load using
 WindUnloadDriver("C:\\Windows\\System32\\Drivers\\YourDriver.sys", TRUE);
 WindLoadDriver("C:\\Windows\\System32\\Drivers\\gdrv.sys", "C:\\Windows\\System32\\Drivers\\YourDriver.sys", TRUE);
 ```
+
+discord `bloodieys`
