@@ -8,4 +8,4 @@ WindUnloadDriver("C:\\Windows\\System32\\Drivers\\YourDriver.sys", TRUE);
 WindLoadDriver("C:\\Windows\\System32\\Drivers\\gdrv.sys", "C:\\Windows\\System32\\Drivers\\YourDriver.sys", TRUE);
 ```
 
-discord `bloodieys`
+discord `s.n.o.w.l.e.o.p.a.r.d`
